@@ -1,0 +1,5 @@
+flask
+dramatiq[redis]
+dramatiq-abort[redis]
+requests
+gunicorn
